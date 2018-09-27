@@ -31,8 +31,7 @@ Steps to run the application :
 
 Reports and Tables:
 -------------------
-Reports	                                                                            Table name
-Number of records available for each ip.	                                          no_of_records
-List of ips associated with each unique port.	                                      port_level_ips
-List of ips associated with each qunique CVE.ID	                                    cve_ips
-Count of ips associated with each unique SEVERITY_LEVEL for each dateloaded.$date 	severity_level_ips
+Number of records available for each ip = no_of_records
+List of ips associated with each unique port = port_level_ips
+List of ips associated with each qunique CVE.ID	= cve_ips
+Count of ips associated with each unique SEVERITY_LEVEL for each dateloaded.$date = severity_level_ips
